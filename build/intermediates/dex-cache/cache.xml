@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="95509108c52ee6351ae31810efa1233a376cd48e">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c956007be43283c4f46a83853c5f7ab99684e9e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ed0ce97933a9ff184d4b962887b9bb4d263be728/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_0ceb81a234f9fb368945a678feaff0959cdd2bd6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marmm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c794ba3043c94ed887b95ee7c80945b4924aade8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_56dae8b247d035d40a2bc77537d000877b50b6f5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_21942ea7ad9e4e4b85a1371462cffd6d33ac9bc5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_16725b120e979f825d8d05c1a2b463124380d0e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ecb709d0112bf4d857a504dc35fefbd6c12a211a">
+        <dex dex="/Users/marmm/Google Drive/test/platforms/gridactivity-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0592d8f57d7674d87fd4a14f55ca42f6faf0431/classes.dex" />
+    </item>
+
+</items>
